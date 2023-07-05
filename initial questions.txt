@@ -1,0 +1,112 @@
+﻿1. What is the main purpose of your e-commerce store?
+   * Do you aim to sell directly to consumers or businesses?
+
+
+2. Do you already have a website, a static one or dynamic one which you are using for selling products?
+
+
+3. . Do you have a business setup already? 
+         *   This is required for adding business details and making any purchases for business related to website requirements
+
+
+4. Do you already have a tech team to handle some details? Do you have any team who is going to help us in explaining requirements?
+
+
+5. Do you have a social media presence right now?
+
+
+6.  What is your timeline for this project?
+   * This will help us plan and deliver the project on time.
+
+
+7.  Do you have an existing merchant account for processing payments?
+
+
+8. Like a bank account, business ABN registered. We'll need this information to set up payment processing on your site.
+
+
+9.  Are there any specific payment gateways you prefer to use?
+   * We can use a range of payment gateways like paypal, stripe(for debit /credit cards), and we can also integrate alternative payment methods if necessary.
+
+
+
+
+10. How are you going to handle the orders once the checkout is completed?
+* Do you want the website to integrate with shipping providers?
+
+
+11. How do you plan to handle taxes for your products?
+
+
+ * We dont need the accounting information. We just want to mention the taxes in our website
+
+
+12.  What specific features do you need on your website (wish list, product reviews, customer accounts, etc.)?
+
+
+13.  Do you need a customer login or one time purchase?
+*Login means customer will have an account in the website and they might want to have wish list, buy later, or add reviews directly in the website
+
+
+14.  Do you require any particular SMS/email notification features for your customers?
+   * For example, order confirmation, shipping updates, etc.
+
+
+15.  What are your plans for handling returns and refunds?
+   * This is crucial information to include on your site for customer transparency. Should it be handled in website or customers will make a call and it will be handled offline?
+
+
+16.  What are the different models/varieties of illusion fireplaces that you will be selling?
+   * Do they vary by size, functionality, design, or any other aspect?
+
+
+17.  How many products do you plan to sell initially and in the future?
+   * This will help us understand the scale of your product catalog.
+
+
+18.  Do you have product photos and descriptions ready?
+   * We will need detailed descriptions and high-quality images of the products to set up your store. These are crucial for SEO and for providing a good user experience.
+
+
+19.  Do you have branding guidelines (logos, color schemes, typography) or do you need help with branding?
+   * If you have branding guidelines, it would help us create a consistent, engaging shopping experience.
+
+
+
+
+
+
+20.  How often do you expect to update the site and its products?
+   * Regular updates can improve SEO and customer engagement.
+
+
+21.  Who will be managing the site after it’s built?
+   * We can provide ongoing tech support if needed.
+
+
+
+
+22.  How will customer service be handled?
+   * Understanding this can help us ensure the website supports your customer service efforts.
+
+
+23.  Do you need any specific reports or analytics from the site?
+   * We can set up additional custom reports if necessary.
+
+
+24.  Can you provide some basic SEO content or descriptions for your products?
+   * We can enhance and optimize this content for better visibility on search engines.
+
+
+25.  Would you like to include a blog or content section for SEO?
+   * Regular, relevant content can significantly boost your SEO.
+
+
+26.  Do you require multilingual or multi-currency support?
+27.    * This is important if you have or anticipate having customers from different countries.
+
+
+
+
+28.  What are your expectations in terms of website maintenance and updates?
+   * Regular updates are crucial for the smooth operation of your website.
